@@ -16,3 +16,6 @@
 [submodule "BST2"]
 	path = BST2
 	url = https://github.com/ujjawal808/BST2.git
+[submodule "Leetcode"]
+	path = Leetcode
+	url = https://github.com/ujjawal808/Leetcode.git
