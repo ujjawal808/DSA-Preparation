@@ -1,0 +1,18 @@
+[submodule "Graph1"]
+	path = Graph1
+	url = https://github.com/ujjawal808/Graph1.git
+[submodule "Graph4"]
+	path = Graph4
+	url = https://github.com/ujjawal808/Graph4.git
+[submodule "Graph5"]
+	path = Graph5
+	url = https://github.com/ujjawal808/Graph5.git
+[submodule "BinaryTree3"]
+	path = BinaryTree3
+	url = https://github.com/ujjawal808/BinaryTree3.git
+[submodule "BST1"]
+	path = BST1
+	url = https://github.com/ujjawal808/BST1.git
+[submodule "BST2"]
+	path = BST2
+	url = https://github.com/ujjawal808/BST2.git
